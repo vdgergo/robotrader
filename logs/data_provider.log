@@ -1,0 +1,66 @@
+[2025-11-19 17:43:03] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 17:43:03] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 17:43:27] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 17:43:27] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 17:43:40] [INFO] 0 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 17:43:40] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 17:43:40] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 100 trade.
+[2025-11-19 17:58:24] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 17:58:24] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 17:58:44] [INFO] 0 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 17:58:44] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 17:58:44] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 436 trade.
+[2025-11-19 18:20:22] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 18:20:22] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 18:21:01] [INFO] 0 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 18:21:01] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 18:21:01] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 1090 trade.
+[2025-11-19 18:25:48] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 18:25:48] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 18:26:48] [INFO] 1 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 18:26:48] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 18:26:48] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 1330 trade.
+[2025-11-19 18:30:06] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 18:30:06] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 18:30:42] [INFO] 0 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 18:30:42] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 18:30:42] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 874 trade.
+[2025-11-19 18:47:05] [INFO] 874 lezárt trade betöltve a(z) data\trades\closed_trades.parquet fájlból.
+[2025-11-19 18:47:05] [INFO] 0 trade adat beolvasva a(z) data\trades\active_trades.json fájlból.
+[2025-11-19 18:47:48] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 18:47:48] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 18:48:27] [INFO] 0 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 18:48:27] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 18:48:27] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 843 trade.
+[2025-11-19 18:52:37] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 18:52:37] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 18:53:24] [INFO] 0 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 18:53:24] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 18:53:24] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 845 trade.
+[2025-11-19 19:39:18] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 19:39:18] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 19:39:32] [INFO] 0 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 19:39:32] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 19:39:32] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 2 trade.
+[2025-11-19 19:41:32] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-19 19:41:32] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-19 19:41:48] [INFO] 1 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-19 19:41:48] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-19 19:41:48] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 48 trade.
+[2025-11-22 13:17:36] [INFO] 48 lezárt trade betöltve a(z) data\trades\closed_trades.parquet fájlból.
+[2025-11-22 13:17:36] [INFO] 1 trade adat beolvasva a(z) data\trades\active_trades.json fájlból.
+[2025-11-22 13:17:59] [INFO] 1 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-22 13:17:59] [INFO] 48 duplikált trade eltávolítva mentés elõtt.
+[2025-11-22 13:17:59] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 49 trade.
+[2025-11-22 14:15:16] [INFO] 49 lezárt trade betöltve a(z) data\trades\closed_trades.parquet fájlból.
+[2025-11-22 14:15:16] [INFO] 1 trade adat beolvasva a(z) data\trades\active_trades.json fájlból.
+[2025-11-22 14:15:38] [INFO] 1 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-22 14:15:38] [INFO] 49 duplikált trade eltávolítva mentés elõtt.
+[2025-11-22 14:15:38] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 49 trade.
+[2025-11-22 14:50:43] [WARNING] Parameter file not found for: WaveBearTrend.parquet
+[2025-11-22 14:52:44] [WARNING] Parameter file not found for: WaveBearTrend.parquet
+[2025-11-22 14:53:36] [INFO] Nem található lezárt trade-ek naplófájl, üres listával indulunk.
+[2025-11-22 14:53:36] [INFO] Nincs mentett trade fájl, vagy az útvonal nincs beállítva. Üres trade listával indulunk.
+[2025-11-22 14:53:48] [INFO] 1 trade sikeresen elmentve ide: data\trades\active_trades.json
+[2025-11-22 14:53:48] [INFO] 0 duplikált trade eltávolítva mentés elõtt.
+[2025-11-22 14:53:48] [INFO] Lezárt trade-ek naplója frissítve: data\trades\closed_trades.parquet. Összesen 48 trade.
