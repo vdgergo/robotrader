@@ -1,0 +1,6 @@
+log/
+etc/
+__pycache__/
+config/
+data/
+robotrader-live/
