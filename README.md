@@ -1,7 +1,7 @@
-📈 CryptoTrader2024 – Modular Crypto Strategy Engine
+Robotrader – Modular Crypto Strategy Engine
 ====================================================
 
-CryptoTrader2024 is a modular, backtest-ready cryptocurrency trading system designed to analyze multi-asset strategies using OHLCV data and sentiment (Fear & Greed Index), generate ranked trade signals, and execute simulated or live trades via Binance API.
+Robotrader is a modular, backtest-ready cryptocurrency trading system designed to analyze multi-asset strategies using OHLCV data and sentiment (Fear & Greed Index), generate ranked trade signals, and execute simulated or live trades via Binance API.
 
 ----------------------------------------------------
 
